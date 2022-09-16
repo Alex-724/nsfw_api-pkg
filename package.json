@@ -1,6 +1,6 @@
 {
   "name": "nsfw_api-pkg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A best nsfw package for finding new gifs.",
   "main": "index.js",
   "scripts": {
