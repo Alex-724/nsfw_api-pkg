@@ -1,0 +1,17 @@
+{
+  "name": "nsfw_api-pkg",
+  "version": "1.0.1",
+  "description": "A best nsfw package for finding new gifs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nsfw"
+  ],
+  "author": "Alex{}#2328",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
