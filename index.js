@@ -1,7 +1,7 @@
 const axios = require("axios");
 class NSFW_API {
   constructor() {
-    this.url = "https://nsfw-api-pkg.herokuapp.com/";
+    this.url = "https://nsfw-api.herokuapp.com//";
   }
   async getRandomValue(array) {
     return array[Math.floor(Math.random() * array.length)];
