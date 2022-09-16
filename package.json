@@ -6,11 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-724/nsfw_api-pkg.git"
+  },
   "keywords": [
     "nsfw"
   ],
   "author": "Alex{}#2328",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-724/nsfw_api-pkg/issues"
+  },
+  "homepage": "https://github.com/Alex-724/nsfw_api-pkg#readme",
   "dependencies": {
     "axios": "^0.27.2"
   }
